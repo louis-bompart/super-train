@@ -1,0 +1,6 @@
+name: "Tomato"
+on:
+  workflow_call:
+jobs:
+  tomata:
+    uses: louis-bompart/super-train/.github/workflows/potato@main

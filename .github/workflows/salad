@@ -1,0 +1,6 @@
+name: "BarASalade"
+on:
+  workflow_dispatch:
+jobs:
+  its-four-o-clok:
+    uses: louis-bompart/super-train/.github/workflows/tomato.yml@main

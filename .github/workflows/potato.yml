@@ -1,0 +1,8 @@
+name: "Potato"
+on:
+  workflow_call:
+jobs:
+  patate-pile:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo patate

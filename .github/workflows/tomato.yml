@@ -3,4 +3,4 @@ on:
   workflow_call:
 jobs:
   tomata:
-    uses: louis-bompart/super-train/.github/workflows/potato.yml@main
+    uses: louis-bompart/super-train/.github/workflows/potato2.yml@main
